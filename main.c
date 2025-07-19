@@ -3,7 +3,7 @@
 #include "git_helper.h"
 
 int main() {
-    printf("Git Helper Tool\n");
+    printf("=== Git Helper Tool ===\n");
     printf("1. Quick Commit & Push\n");
     printf("2. List Branches\n");
     printf("3. Create Branch\n");
